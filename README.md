@@ -1,6 +1,4 @@
 # Publications
-A list of my published work
-
 1. A.H. Zekri, A.M. Zekri, R. Turner, S. Carey, “A Model for Procedurally Generated Environments in a Dynamic Driving Simulator to Train Persons with Autism Spectrum Disorder,” *USF Tampa Undergraduate Research Conference*, University of South Florida, Tampa, FL, April 2022.
 
 ![DrivingSimulator USF Poster](https://user-images.githubusercontent.com/78307866/209985579-4626269a-db03-4684-983a-107af11f7363.png)
